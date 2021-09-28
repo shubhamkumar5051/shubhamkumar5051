@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on [News-Insight](https://github.com/shubhamkumar5051/News-Insight)
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on **Reactjs project**
+- 👯 I’m looking to collaborate on **Open Source Project**
 
-- 🤝 I’m looking for help with **Data structure and Algorithms**
+- 🤝 I’m looking for help with **Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamkumar5051](https://github.com/shubhamkumar5051)
 
-- 💬 Ask me about **C++,Javascript,Dsa**
+- 💬 Ask me about **C++, Javascript, Dsa**
 
 - 📫 How to reach me **Shubhamkr5051@gmail.com**
 
