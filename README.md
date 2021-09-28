@@ -39,15 +39,12 @@
   <a href="https://github.com/Shubhamkumar5051/github-readme-stats"><img alt="Shubham kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkumar5051&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
-
-
-<br/>
-<br/>
-
 <a href="https://github.com/Shubhamkumar5051/github-readme-activity-graph"><img alt="Shubham kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shubhamkumar5051&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkumar5051&show_icons=true&locale=en&layout=compact" alt="shubhamkumar5051" /> -->
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
+## Connect With Me
+
 <p align="left">
 <a href="https://linkedin.com/in/shubham-kumar-8965221a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-8965221a0" height="30" width="40" /></a>
 <a href="https://instagram.com/shubh_kohli_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh_kohli_18" height="30" width="40" /></a>
